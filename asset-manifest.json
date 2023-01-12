@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/marvelMoviesBlog/static/css/main.b8eac9d4.css",
+    "main.js": "/marvelMoviesBlog/static/js/main.d3c871cb.js",
+    "reactPlayerYouTube.js": "/marvelMoviesBlog/static/js/reactPlayerYouTube.6f2989b3.chunk.js",
+    "reactPlayerSoundCloud.js": "/marvelMoviesBlog/static/js/reactPlayerSoundCloud.49aa3d2e.chunk.js",
+    "reactPlayerVimeo.js": "/marvelMoviesBlog/static/js/reactPlayerVimeo.d39e4b38.chunk.js",
+    "reactPlayerFacebook.js": "/marvelMoviesBlog/static/js/reactPlayerFacebook.6cc8c9b3.chunk.js",
+    "reactPlayerStreamable.js": "/marvelMoviesBlog/static/js/reactPlayerStreamable.f9545021.chunk.js",
+    "reactPlayerWistia.js": "/marvelMoviesBlog/static/js/reactPlayerWistia.174b5738.chunk.js",
+    "reactPlayerTwitch.js": "/marvelMoviesBlog/static/js/reactPlayerTwitch.20edb876.chunk.js",
+    "reactPlayerDailyMotion.js": "/marvelMoviesBlog/static/js/reactPlayerDailyMotion.303c383e.chunk.js",
+    "reactPlayerMixcloud.js": "/marvelMoviesBlog/static/js/reactPlayerMixcloud.ca4223a5.chunk.js",
+    "reactPlayerVidyard.js": "/marvelMoviesBlog/static/js/reactPlayerVidyard.1193c7d4.chunk.js",
+    "reactPlayerKaltura.js": "/marvelMoviesBlog/static/js/reactPlayerKaltura.37f452d0.chunk.js",
+    "reactPlayerFilePlayer.js": "/marvelMoviesBlog/static/js/reactPlayerFilePlayer.aacd96f1.chunk.js",
+    "reactPlayerPreview.js": "/marvelMoviesBlog/static/js/reactPlayerPreview.f8ac169f.chunk.js",
+    "static/media/slick.svg": "/marvelMoviesBlog/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/marvelMoviesBlog/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/marvelMoviesBlog/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/marvelMoviesBlog/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/marvelMoviesBlog/index.html",
+    "main.b8eac9d4.css.map": "/marvelMoviesBlog/static/css/main.b8eac9d4.css.map",
+    "main.d3c871cb.js.map": "/marvelMoviesBlog/static/js/main.d3c871cb.js.map",
+    "reactPlayerYouTube.6f2989b3.chunk.js.map": "/marvelMoviesBlog/static/js/reactPlayerYouTube.6f2989b3.chunk.js.map",
+    "reactPlayerSoundCloud.49aa3d2e.chunk.js.map": "/marvelMoviesBlog/static/js/reactPlayerSoundCloud.49aa3d2e.chunk.js.map",
+    "reactPlayerVimeo.d39e4b38.chunk.js.map": "/marvelMoviesBlog/static/js/reactPlayerVimeo.d39e4b38.chunk.js.map",
+    "reactPlayerFacebook.6cc8c9b3.chunk.js.map": "/marvelMoviesBlog/static/js/reactPlayerFacebook.6cc8c9b3.chunk.js.map",
+    "reactPlayerStreamable.f9545021.chunk.js.map": "/marvelMoviesBlog/static/js/reactPlayerStreamable.f9545021.chunk.js.map",
+    "reactPlayerWistia.174b5738.chunk.js.map": "/marvelMoviesBlog/static/js/reactPlayerWistia.174b5738.chunk.js.map",
+    "reactPlayerTwitch.20edb876.chunk.js.map": "/marvelMoviesBlog/static/js/reactPlayerTwitch.20edb876.chunk.js.map",
+    "reactPlayerDailyMotion.303c383e.chunk.js.map": "/marvelMoviesBlog/static/js/reactPlayerDailyMotion.303c383e.chunk.js.map",
+    "reactPlayerMixcloud.ca4223a5.chunk.js.map": "/marvelMoviesBlog/static/js/reactPlayerMixcloud.ca4223a5.chunk.js.map",
+    "reactPlayerVidyard.1193c7d4.chunk.js.map": "/marvelMoviesBlog/static/js/reactPlayerVidyard.1193c7d4.chunk.js.map",
+    "reactPlayerKaltura.37f452d0.chunk.js.map": "/marvelMoviesBlog/static/js/reactPlayerKaltura.37f452d0.chunk.js.map",
+    "reactPlayerFilePlayer.aacd96f1.chunk.js.map": "/marvelMoviesBlog/static/js/reactPlayerFilePlayer.aacd96f1.chunk.js.map",
+    "reactPlayerPreview.f8ac169f.chunk.js.map": "/marvelMoviesBlog/static/js/reactPlayerPreview.f8ac169f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8eac9d4.css",
+    "static/js/main.d3c871cb.js"
+  ]
+}
