@@ -2,7 +2,7 @@
   "homepage": "https://nsrksreecharan.github.io/marvelMoviesBlog",
   "name": "marvelmoviesblog",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "engines": {
     "node": "^10.13 || 12 || 14 || 15",
     "npm": ">=6"
